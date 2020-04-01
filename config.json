@@ -1,0 +1,8 @@
+{
+    "file": "spigot-1.15.2.jar",
+    "autostart": true,
+    "memory": {
+        "min": "1024",
+        "max": "24,576"
+    }
+}
