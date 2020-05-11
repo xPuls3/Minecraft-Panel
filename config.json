@@ -3,6 +3,6 @@
     "autostart": true,
     "memory": {
         "min": "1024",
-        "max": "24,576"
+        "max": "24576"
     }
 }
